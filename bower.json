@@ -1,0 +1,22 @@
+{
+  "name": "pottery-inventory-firebase",
+  "homepage": "https://github.com/joellegg/pottery-inventory-firebase",
+  "authors": [
+    "joellegg <joellegg@bellsouth.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "firebase": "^3.6.7"
+  }
+}
